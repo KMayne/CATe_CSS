@@ -77,6 +77,10 @@ body center ul {
 
 /* Pink coursework */
 
+/* Subscribed text */
+
+/* Deadline/tests arrows */
+
 /* Green coursework */
 
 /* Continuation arrow */
@@ -92,10 +96,6 @@ body center ul {
 /* Hideous pointless arrow */
 
 /* Personal page image */
-
-/* Subscribed text */
-
-/* Deadline/tests arrows */
 
 font[color="blue"] {
     color: #2196F3;
@@ -178,7 +178,7 @@ img[src="icons/h.gif"] {
     background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfgChILOSBTj3QEAAAAuElEQVQoz53RMU7DQBSE4c/xooAi0SAaSpQCKSfgRNDTp4oo03OEnIETcAOqlG4QjQvTLH4UsRWvSAOz1c6b+fVWyx81Ny+NurideXLvTX+6nayFsJZOjzeyELLN78jCVkzO1uIwmA2BlWSnA52dZFUSZlhqhNBYHqsjoUcWIOTBmQSgGh5dq6a7H9V6dYVP7bR14Ny4lrUClUvJh0Y/Es49evA1oV148awbCbU7t76LL9h7L5x/6wfsMzEF63n1bwAAAABJRU5ErkJggg==) no-repeat;
     box-sizing: border-box;
     /* Width of new image */
-    /* Height of new image */
+    /*ispl Height of new image */
     /* Equal to width of new image */
     display: block;
     height: 16px;
@@ -251,6 +251,7 @@ tr td p {
     display: none;
 }
 
-body > table:nth-child(3) > tbody > tr:nth-child(91) > td:nth-child(6), body > table:nth-child(3) > tbody > tr:nth-child(49) > td:nth-child(6), body > table:nth-child(3) > tbody > tr:nth-child(8) > td:nth-child(6), body > table:nth-child(3) > tbody > tr:nth-child(51) > td:nth-child(6) {
+body > table:nth-child(3) > tbody > tr:nth-child(45) > td:nth-child(6), body > table:nth-child(3) > tbody > tr:nth-child(47) > td:nth-child(6), body > table:nth-child(3) > tbody > tr:nth-child(87) > td:nth-child(6) {
     display: none;
 }
+
