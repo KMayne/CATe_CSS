@@ -252,6 +252,10 @@ tr td p {
 }
 
 body > table:nth-child(3) > tbody > tr:nth-child(45) > td:nth-child(6), body > table:nth-child(3) > tbody > tr:nth-child(47) > td:nth-child(6), body > table:nth-child(3) > tbody > tr:nth-child(87) > td:nth-child(6) {
+    display: block;
+}
+
+body > table:nth-child(3) > tbody > tr:nth-child(n + 88) {
     display: none;
 }
 
